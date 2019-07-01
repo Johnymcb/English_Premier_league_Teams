@@ -1,19 +1,4 @@
 # English_Premier_league_Teams
----
->Team Name: **CHELSEA**.
-
-- Team Logo: ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdIbcUutTWArrn04ACmRpjMANFl5xMKK4obGlR5OaIF4bGlts)
- 
-- City: North London
-- Coach: Frank Lampard
-- League Position: 3rd
-- Cups won: 1 ***Europa League***
-- Best Player: Eden Hazard
-- TopScoreer: Eden Hazard
-- [Team Website link](https://www.chelseafc.com/)
-
----
-
 ## Machester United
 
 Full Name: Machester United Football Club
@@ -59,4 +44,3 @@ Jurgen Klopp
 **Team logo**
 
 ![club_logo](https://i.pinimg.com/originals/df/d0/e2/dfd0e2751d4861f44241a82043dc958e.png)
-
