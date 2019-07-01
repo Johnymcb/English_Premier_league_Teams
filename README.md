@@ -19,6 +19,10 @@ Caps Won: League - 20, UEFA - 3, FA - 12, League Caps - 6
 
 [Link to Website](https://www.manutd.com/)
 
+![Team logo](https://i.dlpng.com/static/png/53200_preview.png)
+
+![Team home kit](https://www.lifestylesports.com/on/demandware.static/-/Sites-LSS_eCommerce_Master/default/dwfd1b92de/images/87316541xlalt1.jpg)
+
 
 =======
 # Welcome to Liverpool Fc
