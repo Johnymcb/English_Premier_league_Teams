@@ -24,3 +24,23 @@ Caps Won: League - 20, UEFA - 3, FA - 12, League Caps - 6
 ![Home Kit](https://www.futbolemotion.com/imagesarticulos/121727/grandes/conjunto-adidas-manchester-united-fc-primiera-equipacion-2018-2019-nino-real-red-black-1.jpg)
 
 
+=======
+# Welcome to Liverpool Fc
+*Never walk alone*
+***
+
+**Location**
+London 
+
+**Trophies won**
+* 1) 20 english premier league trophies
+* 2) 5 EUFA cups
+---
+
+**Coach**
+Jurgen Klopp 
+[Coach profile](https://en.wikipedia.org/wiki/J%C3%BCrgen_Klopp)
+
+**Team logo**
+
+![club_logo](https://i.pinimg.com/originals/df/d0/e2/dfd0e2751d4861f44241a82043dc958e.png)
