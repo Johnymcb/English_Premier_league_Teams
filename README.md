@@ -2,7 +2,6 @@
 ---
 >Team Name: **CHELSEA**.
 
-- Team Logo: ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdIbcUutTWArrn04ACmRpjMANFl5xMKK4obGlR5OaIF4bGlts)
  
 - City: North London
 - Coach: Frank Lampard
@@ -11,7 +10,7 @@
 - Best Player: Eden Hazard
 - TopScoreer: Eden Hazard
 - [Team Website link](https://www.chelseafc.com/)
-
+- Team Logo: ![](http://media1.santabanta.com/full1/Football/Chelsea%20FC/chelsea-fc-4a.jpg)
 ---
 
 ## Machester United
