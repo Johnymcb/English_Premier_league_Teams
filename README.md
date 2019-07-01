@@ -62,7 +62,10 @@ Jurgen Klopp
 
 **Team Info**
 Ground: Anfield
+
 Capacity: 54,074
+
 Owner: Fenway Sports Group[https://en.wikipedia.org/wiki/Fenway_Sports_Group]
+
 Nickname: *The Reds*
 
