@@ -3,8 +3,11 @@
 >Team Name: **CHELSEA**.
 
  
+- Nickname: The Blues
 - City: North London
+- Owner: Abrovmovich
 - Coach: Frank Lampard
+- Stadium: Stamford bridge
 - League Position: 3rd
 - Cups won: 1 ***Europa League***
 - Best Player: Eden Hazard
