@@ -18,7 +18,7 @@
 
 ## Machester United
 
-Full Name: Machester United Football Club
+Full Name: **Machester United Football Club**
 
 Nicknames: Red Devils
 
@@ -34,11 +34,11 @@ Manager: Ole G. Solskjer
 
 Caps Won: League - 20, UEFA - 3, FA - 12, League Caps - 6
 
-[Website](https://www.manutd.com/)
+[Link to Website](https://www.manutd.com/)
 
-![Team logo](https://banner2.kisspng.com/20171220/eke/manchester-united-logo-png-5a3a1f6433c440.0174552615137585642122447.jpg)
+![Team logo](https://i.dlpng.com/static/png/53200_preview.png)
 
-![Home Kit](https://www.futbolemotion.com/imagesarticulos/121727/grandes/conjunto-adidas-manchester-united-fc-primiera-equipacion-2018-2019-nino-real-red-black-1.jpg)
+![Team home kit](https://www.lifestylesports.com/on/demandware.static/-/Sites-LSS_eCommerce_Master/default/dwfd1b92de/images/87316541xlalt1.jpg)
 
 
 =======
@@ -61,4 +61,13 @@ Jurgen Klopp
 **Team logo**
 
 ![club_logo](https://i.pinimg.com/originals/df/d0/e2/dfd0e2751d4861f44241a82043dc958e.png)
+
+**Team Info**
+Ground: Anfield
+
+Capacity: 54,074
+
+Owner: Fenway Sports Group[https://en.wikipedia.org/wiki/Fenway_Sports_Group]
+
+Nickname: *The Reds*
 
